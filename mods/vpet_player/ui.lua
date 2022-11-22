@@ -170,7 +170,7 @@ end
 
 local function energize()
 	--minetest.log("energize")
-	vpet_pet.test_astar()
+	--vpet_pet.test_astar()
 end
 
 local function incdec_sel_pet(num)
