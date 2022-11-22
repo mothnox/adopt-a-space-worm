@@ -1,0 +1,1 @@
+local register_entity = minetest.register_entity

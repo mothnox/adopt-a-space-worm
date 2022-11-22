@@ -1,0 +1,9 @@
+*.blend
+*.blend1
+*.b3d
+*.exr
+*.xcf
+*.ptex
+textures/*
+models/*
+sounds/*

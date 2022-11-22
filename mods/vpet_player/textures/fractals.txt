@@ -1,0 +1,7 @@
+gui_rep_tfrac 0,0,100,16,3,0,0,0.249,1,1,1,0,0,0,"a/sin(b)","b/cos(a)","sin(a)/cos(b)","b/cos(a)","a/sin(b)","b/cos(a+b)","a","b","a","b",0,1,"a/(cfb*cos(b))","b/(cfa*sin(a))","cos(vx)/tan(vx)","sin(vy)/tan(vy)",1,0,0,3,0
+
+
+gui_rep_tfrac 0,0,1000,16,10,0,0,1,1,0.5,1,0,0,0,"a/sin(b)","b/cos(a)","sin(a)/cos(b)","b/cos(a)","a/sin(b)","b/cos(a+b)","a","b","a","b",0,1,"a/(cfb*cos(b))","b/(cfa*sin(a))","cos(vx)/tan(vx)","sin(vy)/tan(vy)",1,0,0,3,0
+
+
+gui_rep_tfrac 0,0,1000,16,8,0,2,1,1,0.5,1,0,0,0,"a/sin(b)","b/cos(a)","sin(a)/cos(b)","b/cos(a)","a/sin(b)","b/cos(a+b)","a","b","a","b",0,1,"a/(cfb*cos(b))","b/(cfa*sin(a))","cos(vx)/tan(vx)","sin(vy)/tan(vy)",1,0,0,3,0
